@@ -9,9 +9,9 @@ This application allows admins to **add, update, delete, and manage employee rec
 
 - [🧾 About](#-about)
 - [🚀 Features](#-features)
-- [🛠️ Tech Stack](#-tech-stack)
+- [🛠️ Tech Stack](#tech-stack)
 - [📂 Project Structure](#-project-structure)
-- [⚙️ Installation & Setup](#-installation--setup)
+- [⚙️ Installation & Setup](#installation--setup)
 - [📸 Screenshots (Optional)](#-screenshots-optional)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
@@ -41,7 +41,7 @@ It follows an **MERN architecture**:
 
 ---
 
-## 🛠️ Tech Stack
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
 
 - **Frontend (client):**
   - React.js  
@@ -79,7 +79,7 @@ Employee-Management-System/
 
 ---
 
-## ⚙️ Installation & Setup
+<h2 id="installation--setup">⚙️ Installation & Setup</h2>
 
 1. **Clone the repository**
    ```bash
