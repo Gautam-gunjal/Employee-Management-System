@@ -12,7 +12,6 @@ This application allows admins to **add, update, delete, and manage employee rec
 - [🛠️ Tech Stack](#tech-stack)
 - [📂 Project Structure](#-project-structure)
 - [⚙️ Installation & Setup](#installation--setup)
-- [📸 Screenshots (Optional)](#-screenshots-optional)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 - [👤 Author](#-author)
@@ -115,11 +114,6 @@ Employee-Management-System/
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> Add screenshots or GIFs of your Employee Management System UI here.
-
----
 
 ## 🤝 Contributing
 
